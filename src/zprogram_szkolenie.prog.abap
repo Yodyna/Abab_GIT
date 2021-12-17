@@ -8,4 +8,4 @@
 
 REPORT ZPROGRAM_SZKOLENIE.
 
-write: 'Hello world'.
+write: 'Hello world 2'.
